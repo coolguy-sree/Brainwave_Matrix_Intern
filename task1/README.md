@@ -1,12 +1,5 @@
 # TO-DO-LIST
 
-TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
+This is a simple and user-friendly To-Do List web application designed to help users manage their daily tasks efficiently. The application is built using HTML, CSS, and JavaScript, with tasks stored in the browser's local storage to ensure they persist across sessions.
 
-You can see the website live at: https://5codeman.github.io/TO-DO-LIST/
-
-ABOUT THIS PROJECT-:
-
-  1. In this project i have created a simple to-do app using HTML CSS and JavaScript.
-  2. Built a To-Do List application to make a list of daily works written down in one place.
-  3. Implemented functionalities like add task, remove task, filter tasks and also mark tasks as done.
- 
+Features Add Tasks: Easily add new tasks to your to-do list. Mark as Completed: Click on tasks to mark them as completed; tasks will stay marked even after refreshing the page. Filter Tasks: Filter your tasks by all, completed, or active status. Clear All Tasks: Remove all tasks from your list with a single click. Persistent Storage: Tasks are saved in local storage, so they are available even after the browser is closed or the page is reloaded.
